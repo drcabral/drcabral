@@ -1,6 +1,6 @@
 # Diogo Cabral :man_technologist:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/drcabral)](https://github.com/drcabral)
+[![Github Badge](https://img.shields.io/badge/-Repositories-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/drcabral?tab=repositories)](https://github.com/drcabral?tab=repositories)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DrCabrales)](https://twitter.com/DrCabrales)
 [![Personal Blog Badge](https://img.shields.io/badge/-Blog-38444d?style=flat-square&logo=Blogger&logoColor=white&link=https://www.diogocabral.dev/)](https://www.diogocabral.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drcabral/?locale=en_US)](https://www.linkedin.com/in/drcabral/?locale=en_US)
