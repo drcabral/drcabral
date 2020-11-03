@@ -8,7 +8,7 @@
 ### About me :point_down:
 
 * 6 years of experience as a software developer :computer:
-* Code artist being Mobile Developer at ThoughtWorks :man_artist::calling:
+* Code artist being Android Developer at iFood :man_artist::calling:
 * Passionate about Android, Kotlin, automated tests, mobile architectures, code challenges, food, traveling and videogames :hearts:
 * Coffee enthusiast and its different preparation methods :coffee:
 * Trying to learn something about music and acoustic guitar :guitar:
